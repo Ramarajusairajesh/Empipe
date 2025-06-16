@@ -53,7 +53,3 @@ The application follows a microservices architecture with the following componen
 ## Configuration
 
 The application can be configured through `application.yml` files in the respective services.
-
-## License
-
-MIT License 
